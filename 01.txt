@@ -1,0 +1,18 @@
+structure
+
+INDEX------>  APP-------> CONSTANT
+    DS
+    MODELS-->SCHEMA
+    CONTROLLERS -->FUNCTIOND
+    ROUTER-->
+    MIDDLE WARES
+    UTILS --->FORGET PASS,MAIL SEND
+    MROE( DEPENDS)
+    
+-Express == send req tp server and recives also
+-server listen req
+1. start with npm init
+2.install exspresss
+
+
+to run  -- npm run start
