@@ -16,3 +16,5 @@ INDEX------>  APP-------> CONSTANT
 
 
 to run  -- npm run start
+
+insta evv and create a file
